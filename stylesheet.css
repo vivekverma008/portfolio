@@ -1,0 +1,106 @@
+.portfolio{
+  text-align: center;
+  background:url( https://cdn.wallpapersafari.com/42/80/MGkX4V.jpg);
+  margin:auto;
+
+
+}
+.portfolio h1{
+  font-size: 100px;
+  font-weight: bold;
+  color:#fff;
+  padding-top:280px;
+  padding-bottom:100px;
+
+}
+.portfolio h2{
+  padding-bottom:150px;
+  font-size:30px;
+
+  color:#fff;
+
+
+}
+.portfolio h3 {
+  padding:30px;
+  font-size: 20px;
+
+  text-align: center;
+  border:3px solid grey;
+  display:inline-block;
+
+  color:#fff;
+}
+.fa {
+  color:#fff;
+  padding:30px;
+  size:30px;
+}
+
+.details {
+  background-color:#512888;
+  height:80px;
+  width:100%;
+
+}
+.details h5{
+  float:right;
+  padding-right:40px;
+  line-height:80px;
+  margin:auto;
+
+}
+.details h4{
+  float :left;
+  background-color:#808080;
+  line-height:80px;
+  margin:auto;
+  width:80px;
+  padding-left:20px;
+}
+.bio {
+  text-align: center;
+color:#663046;
+
+
+}
+.bio h1{
+color:#ffc0cb;
+  letter-spacing:10px;
+  font-size:80px;
+
+}
+.list li {
+background-color:#De6Fa1;
+  color:#4c0121;
+
+  height:80px;
+
+
+}
+footer {
+  padding:50px;
+  background-color:#ffc0cb;
+
+}
+.hobby {
+    padding-bottom:60px;
+    background-color:#De6Fa1;
+}
+.hobby h1{
+  padding:25px
+  color:#fff;
+}
+footer p{
+
+  letter-spacing: 3px;
+  color :#fff;
+  padding-top:70px;
+}
+.contact{
+  padding-top:180px;
+}
+.details a{
+  display: block;
+  color:#fff
+}
